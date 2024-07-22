@@ -4,10 +4,11 @@ title: Frem3D ASA-CF
 date: 2024-07-22 21:18 +0200
 categories: [ASA, ASA-CF]
 tags: [ASA, ASA-CF, Frem3D]
+description: 
 ---
 
 ## Frem3D ASA-CF in Orcaslicer, by GetJava
-This is a very brittle filament, so you have to make sure your reverse bowden does not have any kinks on it.
+This is a very brittle filament, so you have to make sure your reverse bowden does not have any kinks in it.
 
 [.orca_filament file](https://github.com/jonathanfrem/voronprintprofiles/blob/main/assets/printprofiles/Frem3D/ASA%20CF/Frem3D%20ASA%20CF.orca_filament)
 
