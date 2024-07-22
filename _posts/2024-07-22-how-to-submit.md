@@ -2,6 +2,7 @@
 layout: post
 title: How to submit
 date: 2024-07-22 21:34 +0200
+description: Want to submit your own print profiles and share them?
 pin: true
 ---
 
