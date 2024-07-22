@@ -4,7 +4,7 @@ title: Frem3D ASA-CF
 date: 2024-07-22 21:18 +0200
 categories: [ASA, ASA-CF]
 tags: [ASA, ASA-CF, Frem3D]
-author: get_java
+author: getjava
 ---
 
 ## Frem3D ASA-CF in Orcaslicer, by GetJava
