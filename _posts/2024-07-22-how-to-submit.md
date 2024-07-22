@@ -11,8 +11,10 @@ Send a message on Discord to [getjava](https://discord.com/users/getjava) with t
 - Type:
 - Color (if applicable):
 - Slicer:
+- Short description of your printer(s) (hotend, extruder, nozzlesize, printertype etc.):
 - Screenshots of filament tab in slicer:
 - Filament profile file for your slicer:
 - Optionally some pictures of prints:
+- Any notes:
 
 Thanks for helping out!
